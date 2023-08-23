@@ -1,0 +1,41 @@
+body 
+{
+    font-family: Verdana;
+    line-height: 1.4em;
+    background-color: lightblue;
+    margin: 20px;
+    
+    }
+
+.estilotextarea 
+{
+    width:170px; height:50px; border: 1px solid #2517e2;
+}
+
+#contenedor{
+    font-family:Tahoma;
+    font-size: 16px;
+    
+
+}
+
+input[name="email"] {
+    margin-bottom: 1rem;
+    border: red;
+    background-color: #eeeeee;
+  }
+
+p { label
+    font-family: tahoma;
+
+
+
+}
+  
+
+
+footer{
+    margin-top:  20px;
+    background-color: black;
+
+}
